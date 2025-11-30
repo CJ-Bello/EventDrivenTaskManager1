@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDrivenTaskManager1", "EventDrivenTaskManager1\EventDrivenTaskManager1.csproj", "{BDE83214-FF41-4575-B518-7CFC934098BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE83214-FF41-4575-B518-7CFC934098BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE83214-FF41-4575-B518-7CFC934098BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE83214-FF41-4575-B518-7CFC934098BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE83214-FF41-4575-B518-7CFC934098BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BECCC72B-70AB-4C71-AAF0-E6EEF9B61AD6}
+	EndGlobalSection
+EndGlobal
